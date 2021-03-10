@@ -17,7 +17,13 @@
  <a href="https://velog.io/@hadmarine">
     <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
   </a>
-
+ <a href="">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">  
+ </a>
+  
+ <a href="https://twitter.com/hadmarine">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white">  
+ </a>
 </p>
 
 
@@ -28,11 +34,15 @@
 * C/C++
 * C#
 * Java, Kotlin
-* Python (Machine learning using Keras/Tensorflow,  
+* Python (Machine learning using Keras/Tensorflow)
 
 ### Web Front-End
 * React with Flux design using MobX/Redux
 * Server Side Rendering using Next.js
+
+### App Development
+* React-Native
+* Flutter
 
 ### Web Back-End
 * Express + Typescript Backend API server
@@ -56,4 +66,4 @@
 * (2019.03 ~ 2022.02) Sunrin Internet High School, Software department.
 
 ## Employment History
-* (2020.01 ~2020.10) Interbrid Inc. Worked as a Team leader of Service Development Team
+* (2020.01 ~2020.10) Interbrid Inc. Worked as a Team lead of Service Development Team
