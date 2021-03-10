@@ -1,4 +1,4 @@
-### HADMARINE
+# HADMARINE
 
 <p align=center>
   
@@ -14,3 +14,34 @@
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@hadmarine)
 
 </p>
+
+
+## Skills
+
+### Languages
+* Javascript, Typescript
+* C/C++
+* C#
+* Java, Kotlin
+* Python (Machine learning using Keras/Tensorflow,  
+
+### Web Front-End
+* React with Flux design using MobX/Redux
+* Server Side Rendering using Next.js
+
+### Web Back-End
+* Express + Typescript Backend API server
+* C# ASP.NET Backend server (MVC Architecture)
+
+### Dev-Ops
+* CI/CD using CircleCI
+* Nonstop service with L2 Load Balancer + AWS Auto Scaling.
+
+### Game Engine
+* Game engine based on DirectX or OpenGL
+* 2D Physics Engine
+
+
+## Open-Source Projects
+* [express-quick-builder (NPM)](https://www.npmjs.com/package/express-quick-builder) - Builds express backend server with only one function and provides decorators for building endpoints quickly.
+* [clear-logger (NPM)](https://www.npmjs.com/package/clear-logger) - Logger easy to use. Includes stack-tracer (using js inhouse Error obj)
