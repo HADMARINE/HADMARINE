@@ -1,17 +1,22 @@
 # HADMARINE
 
-<p align=center>
-  
-![Github Stats](https://github-readme-stats.vercel.app/api?username=hadmarine&show_icons=true)<br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hadmarine)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadmarine&show_icons=true&langs_count=10&theme=tokyonight&layout=compact">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadmarine&langs_count=10&theme=tokyonight&layout=compact">
 </p>
 
-<p align=center>
-  
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhadmarine%2Fhit-counter&count_bg=%23008BFF&title_bg=%232FABFF&icon=&icon_color=%23000000&title=HITS&edge_flat=true)](https://hits.seeyoufarm.com)
-[![Facebook Badge](https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white&link=https://www.facebook.com/zzsza)](https://www.facebook.com/hadmarine)
-[![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://velog.io/@hadmarine)
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhadmarine%2Fhit-counter&count_bg=%23008BFF&title_bg=%232FABFF&icon=&icon_color=%23000000&title=HITS&edge_flat=true">
+</p>
+<p align="center">
+<a href="https://www.facebook.com/hadmarine">
+  <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white">
+</a>
+ <a href="https://velog.io/@hadmarine">
+    <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
+  </a>
 
 </p>
 
@@ -35,7 +40,8 @@
 
 ### Dev-Ops
 * CI/CD using CircleCI
-* Nonstop service with L2 Load Balancer + AWS Auto Scaling.
+* Non-disruptive service with L2 Load Balancer + AWS Auto Scaling + CI/CD
+* Using Ubuntu as main Linux distribution
 
 ### Game Engine
 * Game engine based on DirectX or OpenGL
@@ -45,3 +51,9 @@
 ## Open-Source Projects
 * [express-quick-builder (NPM)](https://www.npmjs.com/package/express-quick-builder) - Builds express backend server with only one function and provides decorators for building endpoints quickly.
 * [clear-logger (NPM)](https://www.npmjs.com/package/clear-logger) - Logger easy to use. Includes stack-tracer (using js inhouse Error obj)
+
+## Education
+* (2019.03 ~ 2022.02) Sunrin Internet High School, Software department.
+
+## Employment History
+* (2020.01 ~2020.10) Interbrid Inc. Worked as a Team leader of Service Development Team
