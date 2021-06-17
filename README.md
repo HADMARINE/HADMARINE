@@ -26,6 +26,10 @@
  </a>
 </p>
 
+## Projects
+
+To be updated
+
 
 ## Skills
 
@@ -42,28 +46,33 @@
 
 ### App Development
 * React-Native
-* Flutter
 
 ### Web Back-End
 * Express + Typescript Backend API server
 * C# ASP.NET Backend server (MVC Architecture)
+* C++ HTTP / WebSocket Server
 
 ### Dev-Ops
-* CI/CD using CircleCI
-* Non-disruptive service with L2 Load Balancer + AWS Auto Scaling + CI/CD
-* Using Ubuntu as main Linux distribution
+* CI/CD using CircleCI / AWS CodePipeline
+* Non-disruptive update service with AWS L2 Load Balancer + AWS Auto Scaling + AWS Codepipeline
+* Using Ubuntu as main Linux distro
+* AWS Document DB
 
 ### Game Engine
 * Game engine based on DirectX or OpenGL
 * 2D Physics Engine
 
+### Math
+* Can solve light calculus problems
+* Know how to use Vectors and use.
+
 
 ## Open-Source Projects
-* [express-quick-builder (NPM)](https://www.npmjs.com/package/express-quick-builder) - Builds express backend server with only one function and provides decorators for building endpoints quickly.
+* [express-quick-builder (NPM)](https://www.npmjs.com/package/express-quick-builder) - Builds express backend server with one simple function and provides decorators for building endpoints as fast as light.
 * [clear-logger (NPM)](https://www.npmjs.com/package/clear-logger) - Logger easy to use. Includes stack-tracer (using js inhouse Error obj)
 
 ## Education
-* (2019.03 ~ 2022.02) Sunrin Internet High School, Software department.
+* (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department.
 
 ## Employment History
-* (2020.01 ~2020.10) Interbrid Inc. Worked as a Team lead of Service Development Team
+* (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team lead of Service Development Team
