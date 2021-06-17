@@ -57,6 +57,7 @@ To be updated
 * Non-disruptive update service with AWS L2 Load Balancer + AWS Auto Scaling + AWS Codepipeline
 * Using Ubuntu as main Linux distro
 * AWS Document DB
+* Cloudfront CDN Deployment
 
 ### Game Engine
 * Game engine based on DirectX or OpenGL
