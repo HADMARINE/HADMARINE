@@ -28,7 +28,10 @@
 
 ## Projects
 
-To be updated
+### Open-Source
+* [express-quick-builder (NPM)](https://www.npmjs.com/package/express-quick-builder) - Builds express backend server with one simple function and provides decorators for building endpoints as fast as light.
+* [clear-logger (NPM)](https://www.npmjs.com/package/clear-logger) - Logger easy to use. Includes stack-tracer (using js inhouse Error obj)
+* [QuickCert.js (NPM)](https://www.npmjs.com/package/quickcert.js) - Manages Certificates, private keys as quick as light with cli intergrated!
 
 
 ## Skills
@@ -66,11 +69,6 @@ To be updated
 ### Math
 * Can solve light calculus problems
 * Know how to use Vectors and use.
-
-
-## Open-Source Projects
-* [express-quick-builder (NPM)](https://www.npmjs.com/package/express-quick-builder) - Builds express backend server with one simple function and provides decorators for building endpoints as fast as light.
-* [clear-logger (NPM)](https://www.npmjs.com/package/clear-logger) - Logger easy to use. Includes stack-tracer (using js inhouse Error obj)
 
 ## Education
 * (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department.
