@@ -32,7 +32,7 @@
 * [express-quick-builder (NPM)](https://www.npmjs.com/package/express-quick-builder) - Builds express backend server with one simple function and provides decorators for building endpoints as fast as light.
 * [eqb-request-client (NPM)](https://www.npmjs.com/package/eqb-request-client) - Axios Wrapped HTTP requset client works with express-quick-builder based server
 * [clear-logger (NPM)](https://www.npmjs.com/package/clear-logger) - Logger easy to use. Includes stack-tracer (using js inhouse Error obj)
-* [QuickCert.js (NPM)](https://www.npmjs.com/package/quickcert.js) - Manages Certificates, private keys as quick as light with cli intergrated!
+* [QuickCert (NPM)](https://www.npmjs.com/package/quickcert) - Manages Certificates, private keys as quick as light with cli intergrated!
 
 
 ## Skills
