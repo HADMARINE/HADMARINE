@@ -34,6 +34,12 @@
 * [clear-logger (NPM)](https://www.npmjs.com/package/clear-logger) - Logger easy to use. Includes stack-tracer (using js inhouse Error obj)
 * [QuickCert (NPM)](https://www.npmjs.com/package/quickcert) - Manages Certificates, private keys as quick as light with cli intergrated!
 
+### Projects worked as staff
+* [2021-sunrinthon-backend (github)](https://github.com/sunrinhackathon/2021-sunrinthon-backend) - Developed Backend service and managed Infrastructure based on Amazon Web Services. Used self-made package ([Express-Quick-Builder](https://www.npmjs.com/package/express-quick-builder) as fundamental server generator framework.
+
+### Personal Projects
+To be updated
+
 
 ## Skills
 
