@@ -73,6 +73,9 @@ To be updated
 * Game engine based on DirectX or OpenGL
 * 2D Physics Engine
 
+### GPGPU
+* Learning CUDA Environment 
+
 ### Math
 * Can solve light calculus problems
 * Know how to use Vectors and use.
