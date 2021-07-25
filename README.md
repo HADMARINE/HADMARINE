@@ -78,7 +78,7 @@ To be updated
 
 ### Math
 * Can solve light calculus problems
-* Know how to use Vectors and use.
+* Know Linear Algebra, and use the concept to solve problems.
 
 ## Education
 * (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department.
