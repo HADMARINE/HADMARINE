@@ -55,7 +55,7 @@ To be updated
 * Server Side Rendering using Next.js
 
 ### App Development
-* React-Native
+* React-Native (Developed production application)
 
 ### Web Back-End
 * Express + Typescript Backend API server
