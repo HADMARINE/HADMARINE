@@ -84,4 +84,4 @@ To be updated
 * (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department.
 
 ## Employment History
-* (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team lead of Service Development Team
+* (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
