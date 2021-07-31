@@ -49,6 +49,7 @@ To be updated
 * C#
 * Java, Kotlin
 * Python (Machine learning using Keras/Tensorflow)
+* Shell scripts (.sh), CMD scripts (.cmd)
 
 ### Web Front-End
 * React with Flux design using MobX/Redux
