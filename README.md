@@ -46,6 +46,7 @@ To be updated
 ### Languages
 * Javascript, Typescript
 * C/C++
+* Rust (Learning!)
 * C#
 * Java, Kotlin
 * Python (Machine learning using Keras/Tensorflow)
