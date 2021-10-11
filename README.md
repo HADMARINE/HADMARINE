@@ -82,6 +82,11 @@ To be updated
 * Can solve light calculus problems
 * Know Linear Algebra, and use the concept to solve problems.
 
+## Language
+* Korean : Mothertongue
+* English : Can speak nearly as native speaker
+* French : Can speak as DELF A1 level / Je peux parler le francais comme DELF A1
+
 ## Education
 * (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department.
 
