@@ -44,7 +44,7 @@ To be updated
 ## Skills
 
 ### Languages
-* Javascript, Typescript
+* Javascript, Typescript _Advanced level_
 * Rust
 * C/C++
 * C#
@@ -65,18 +65,19 @@ To be updated
 * C++ HTTP / WebSocket Server
 
 ### Dev-Ops
+* Have an experience on AWS, OCI (Oracle Cloud Infrastructure)
 * CI/CD using CircleCI / AWS CodePipeline
 * Non-disruptive update service with AWS L2 Load Balancer + AWS Auto Scaling + AWS Codepipeline
 * Using Ubuntu as main Linux distro
 * AWS Document DB
-* Cloudfront CDN Deployment
+* Cloudfront CDN Deployment w. Invalidation
 
 ### Game Engine
 * Game engine based on DirectX or OpenGL
 * 2D Physics Engine
 
 ### GPGPU
-* Learning CUDA Environment 
+* Learning CUDA
 
 ### Math
 * Can solve some calculus problems
@@ -88,7 +89,7 @@ To be updated
 * French : Can speak as DELF A1 level / Je peux parler le francais comme DELF A1
 
 ## Education
-* (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department.
+* (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department
 
 ## Employment History
 * (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
