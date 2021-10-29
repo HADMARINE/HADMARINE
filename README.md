@@ -45,8 +45,8 @@ To be updated
 
 ### Languages
 * Javascript, Typescript
+* Rust
 * C/C++
-* Rust (Learning!)
 * C#
 * Java, Kotlin
 * Python (Machine learning using Keras/Tensorflow)
@@ -79,7 +79,7 @@ To be updated
 * Learning CUDA Environment 
 
 ### Math
-* Can solve light calculus problems
+* Can solve some calculus problems
 * Know Linear Algebra, and use the concept to solve problems.
 
 ## Language
