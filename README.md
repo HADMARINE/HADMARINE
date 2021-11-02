@@ -28,11 +28,15 @@ I like to play with a lot of FUNCTIONS!
 
 ## Projects
 
-### Open-Source
+### Open-Source development
 * [express-quick-builder (NPM)](https://www.npmjs.com/package/express-quick-builder) - Builds express backend server with one simple function and provides decorators for building endpoints as fast as light.
 * [eqb-request-client (NPM)](https://www.npmjs.com/package/eqb-request-client) - Axios Wrapped HTTP requset client works with express-quick-builder based server
 * [clear-logger (NPM)](https://www.npmjs.com/package/clear-logger) - Logger easy to use. Includes stack-tracer (using js inhouse Error obj)
 * [QuickCert (NPM)](https://www.npmjs.com/package/quickcert) - Manages Certificates, private keys as quick as light with cli intergrated!
+
+### Open-Source contribution
+* [create-react-app](https://github.com/facebook/create-react-app)
+  * Resolved build issue caused by incongruity between webpack and Node 17 [PR](https://github.com/facebook/create-react-app/pull/11597)
 
 ### Projects worked as staff
 * [2021-sunrinthon-backend (github)](https://github.com/sunrinhackathon/2021-sunrinthon-backend) - Developed Backend service and managed Infrastructure based on Amazon Web Services. Used self-made package ([Express-Quick-Builder](https://www.npmjs.com/package/express-quick-builder)) as fundamental server generator framework.
