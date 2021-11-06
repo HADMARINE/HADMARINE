@@ -48,20 +48,21 @@ To be updated
 ## Skills
 
 ### Languages
-* Javascript, Typescript _Advanced level_
+* Javascript, Typescript (_Advanced level_)
 * Rust
 * C/C++
 * C#
 * Java, Kotlin
 * Python (Machine learning using Keras/Tensorflow)
 * Shell scripts (.sh), CMD scripts (.cmd)
+* HTML/CSS
 
 ### Web Front-End
 * React with Flux design using MobX/Redux
 * Server Side Rendering using Next.js
 
 ### App Development
-* React-Native (Developed production application)
+* React-Native (Have an experience of developing and releasing production application)
 
 ### Web Back-End
 * Express + Typescript Backend API server
@@ -72,9 +73,25 @@ To be updated
 * Have an experience on AWS, OCI (Oracle Cloud Infrastructure)
 * CI/CD using CircleCI / AWS CodePipeline
 * Non-disruptive update service with AWS L2 Load Balancer + AWS Auto Scaling + AWS Codepipeline
+* Deploy web app on AWS S3
 * Using Ubuntu as main Linux distro
+* NGINX
+  * Apply HTTPS Certification
+  * Reverse proxy
+  * Web page serving
 * AWS Document DB
 * Cloudfront CDN Deployment w. Invalidation
+
+### Testings 
+* Jest, Mocha
+* Rust integrated test
+
+### CLI / Pipeline Development
+* Yargs
+* Gulp
+
+### Tracking tools
+* Track user event via Google Analytics
 
 ### Game Engine
 * Game engine based on DirectX or OpenGL
@@ -88,7 +105,7 @@ To be updated
 * Know Linear Algebra, and use the concept to solve problems.
 
 ## Language
-* Korean : Mothertongue
+* Korean : Mother tongue
 * English : Can speak nearly as native speaker
 * French : Can speak as DELF A1 level / Je peux parler le francais comme DELF A1
 
@@ -98,4 +115,5 @@ To be updated
 ## Employment History
 * (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
   * Developed platform server with Node.JS, React, Vue
-  * Deployed on AWS using CloudFront, EC2 Auto Scaler, Load Balancer.
+  * Deployed on AWS using CloudFront, EC2 Auto Scaler, Load Balancer
+  * Deployed React-Native app on both Android and iOS
