@@ -1,5 +1,4 @@
 # HADMARINE
-I like to play with a lot of FUNCTIONS!
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hadmarine&show_icons=true&langs_count=10&theme=tokyonight&layout=compact">
 </p>
