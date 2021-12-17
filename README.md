@@ -106,7 +106,7 @@ To be updated
 ## Language
 * Korean : Mother tongue
 * English : Can speak nearly as native speaker
-* French : Can speak as DELF A1 level / Je peux parler le francais comme DELF A1
+* French : Can speak as DELF A2 level / Peut parler le français comme DELF A2
 
 ## Education
 * (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department
