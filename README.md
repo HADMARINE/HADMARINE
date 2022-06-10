@@ -106,10 +106,10 @@ To be updated
 ## Language
 * Korean : Mother tongue
 * English : Can speak nearly as native speaker
-* French : Can speak as DELF A2 level / Peut parler le français comme DELF A2
+* French : Can speak as DELF B1 level / Peut parler le français comme DELF B1
 
 ## Education
-* (2019.03 ~ 2022.02 (Expected) ) Sunrin Internet High School, Software department
+* (2019.03 ~ 2022.02) Sunrin Internet High School, Software department
 
 ## Employment History
 * (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
