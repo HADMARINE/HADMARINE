@@ -35,7 +35,7 @@
 
 ### Open-Source contribution
 * [create-react-app](https://github.com/facebook/create-react-app)
-  * Resolved build issue caused by incongruity between webpack and Node 17 [PR](https://github.com/facebook/create-react-app/pull/11597)
+  * Resolved build issue caused by incongruity between webpack and Node 17 [[PR](https://github.com/facebook/create-react-app/pull/11597)] [[Commit](https://github.com/facebook/create-react-app/commit/544befeb536a89b0ff95792df70bb037b17f55b9)]
 
 ### Projects worked as staff
 * [2021-sunrinthon-backend (github)](https://github.com/sunrinhackathon/2021-sunrinthon-backend) - Developed Backend service and managed Infrastructure based on Amazon Web Services. Used self-made package ([Express-Quick-Builder](https://www.npmjs.com/package/express-quick-builder)) as fundamental server generator framework.
