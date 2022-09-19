@@ -58,7 +58,6 @@ To be updated
 
 ### Web Front-End
 * React with Flux design using MobX/Redux
-* Server Side Rendering using Next.js
 
 ### App Development
 * React-Native (Have an experience of developing and releasing production application)
@@ -79,7 +78,7 @@ To be updated
   * Reverse proxy
   * Web page serving
 * AWS Document DB
-* Cloudfront CDN Deployment w. Invalidation
+* Cloudfront CDN Deployment
 
 ### Testings 
 * Jest, Mocha
@@ -92,13 +91,6 @@ To be updated
 ### Tracking tools
 * Track user event via Google Analytics
 
-### Game Engine
-* Game engine based on DirectX or OpenGL
-* 2D Physics Engine
-
-### GPGPU
-* Learning CUDA
-
 ### Math
 * Can solve some calculus problems
 * Know Linear Algebra, and use the concept to solve problems.
@@ -106,7 +98,7 @@ To be updated
 ## Language
 * Korean : Mother tongue
 * English : Can speak nearly as native speaker
-* French : Can speak as DELF B1 level / Peut parler le français comme DELF B1
+* French : Can speak as DELF B2 level / Peut parler le français comme DELF B2 - Avoir le DELF B2
 
 ## Education
 * (2019.03 ~ 2022.02) Sunrin Internet High School, Software department
