@@ -106,6 +106,7 @@ To be updated
 ## Employment History
 * (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
   * Developed platform server with Node.JS
-  * Developed platform page, admin page with React and Vue.
+  * Developed platform page, admin web system with React and Vue.
   * Deployed on AWS using CloudFront, EC2 Auto Scaler, Load Balancer
   * Deployed React-Native app on both Android and iOS
+  * Automated Testing/Deploying thanks to CircleCI
