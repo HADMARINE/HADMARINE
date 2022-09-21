@@ -97,9 +97,9 @@ To be updated
 * Know Linear Algebra, and use the concept to solve problems.
 
 ## Language
-* Korean : Mother tongue
+* Korean : Native
 * English : Can speak nearly as native speaker
-* French : Can speak as DELF B2 level / Peut parler le français comme DELF B2 - Avoir le DELF B2
+* French : Can speak as DELF B2 level / Pouvoir parler au niveau du DELF B2
 
 ## Education
 * (2019.03 ~ 2022.02) Sunrin Internet High School, Software department
