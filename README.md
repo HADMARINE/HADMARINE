@@ -10,13 +10,14 @@
   <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhadmarine%2Fhit-counter&count_bg=%23008BFF&title_bg=%232FABFF&icon=&icon_color=%23000000&title=HITS&edge_flat=true">
 </p>
 <p align="center">
-<a href="https://www.facebook.com/hadmarine">
+<!--- <a href="https://www.facebook.com/hadmarine">
   <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white">
 </a>
  <a href="https://velog.io/@hadmarine">
     <img src="http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github">
   </a>
- <a href="">
+  -->
+ <a href="https://www.linkedin.com/in/joonlee031/">
   <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white">  
  </a>
   
