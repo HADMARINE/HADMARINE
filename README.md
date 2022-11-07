@@ -74,6 +74,7 @@ To be updated
 * Non-disruptive update service with AWS L2 Load Balancer + AWS Auto Scaling + AWS Codepipeline
 * Deploy web app on AWS S3
 * Using Ubuntu as main Linux distro
+* Docker
 * NGINX
   * Apply HTTPS Certification
   * Reverse proxy
