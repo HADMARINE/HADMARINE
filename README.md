@@ -1,14 +1,6 @@
 # HADMARINE
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hadmarine&show_icons=true&langs_count=10&theme=tokyonight&layout=compact">
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadmarine&langs_count=10&theme=tokyonight&layout=compact">
-</p>
-
-<p align="center">
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhadmarine%2Fhit-counter&count_bg=%23008BFF&title_bg=%232FABFF&icon=&icon_color=%23000000&title=HITS&edge_flat=true">
-</p>
+Hojoon Lee
+___
 <p align="center">
 <!--- <a href="https://www.facebook.com/hadmarine">
   <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white">
@@ -59,12 +51,13 @@ To be updated
 
 ### Web Front-End
 * React with Flux design using MobX/Redux
+* Next.js / VITE
 
 ### App Development
 * React-Native (Have an experience of developing and releasing production application)
 
 ### Web Back-End
-* Express + Typescript Backend API server
+* Express + Typescript Backend API server with Nest.JS
 * C# ASP.NET Backend server (MVC Architecture)
 * C++ HTTP / WebSocket Server
 
@@ -100,10 +93,11 @@ To be updated
 ## Language
 * Korean : Native
 * English : Can speak nearly as native speaker
-* French : Can speak as DELF B2 level / Pouvoir parler au niveau du DELF B2
+* French : Can speak as DELF B2 level / Courant - DELF B2
 
 ## Education
 * (2019.03 ~ 2022.02) Sunrin Internet High School, Software department
+* (2023.11 ~ now) Ecole 42
 
 ## Employment History
 * (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
@@ -112,3 +106,17 @@ To be updated
   * Deployed on AWS using CloudFront, EC2 Auto Scaler, Load Balancer
   * Deployed React-Native app on both Android and iOS
   * Automated Testing/Deploying thanks to CircleCI
+* (2023.01 ~ 2023.11 (Planned)) Platform service company
+  * Developed platform server with Nest.JS
+  * Developed webpage with Next.JS
+___
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hadmarine&show_icons=true&langs_count=10&theme=tokyonight&layout=compact">
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hadmarine&langs_count=10&theme=tokyonight&layout=compact">
+</p>
+
+<p align="center">
+  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhadmarine%2Fhit-counter&count_bg=%23008BFF&title_bg=%232FABFF&icon=&icon_color=%23000000&title=HITS&edge_flat=true">
+</p>
