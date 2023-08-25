@@ -1,6 +1,4 @@
 # HADMARINE
-Hojoon Lee
-___
 <p align="center">
 <!--- <a href="https://www.facebook.com/hadmarine">
   <img src="https://img.shields.io/badge/facebook-1877f2?style=flat-square&logo=facebook&logoColor=white">
