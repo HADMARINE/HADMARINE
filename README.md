@@ -95,7 +95,7 @@ To be updated
 
 ## Education
 * (2019.03 ~ 2022.02) Sunrin Internet High School, Software department
-* (2023.11 ~ now) Ecole 42
+* (2023.11 ~ Now) Ecole 42
 
 ## Employment History
 * (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
@@ -104,7 +104,7 @@ To be updated
   * Deployed on AWS using CloudFront, EC2 Auto Scaler, Load Balancer
   * Deployed React-Native app on both Android and iOS
   * Automated Testing/Deploying thanks to CircleCI
-* (2023.01 ~ 2023.11 (Planned)) Platform service company
+* (2023.01 ~ 2023.10) Platform service company
   * Developed platform server with Nest.JS
   * Developed webpage with Next.JS
 ___
