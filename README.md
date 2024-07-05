@@ -16,6 +16,26 @@
  </a>
 </p>
 
+## Education
+* (2019.03 ~ 2022.02) Sunrin Internet High School, Software department
+* (2023.11 ~ Now) Ecole 42
+
+## Employment History
+* (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
+  * Developed platform server with Node.JS
+  * Developed platform page, admin web system with React and Vue.
+  * Deployed on AWS using CloudFront, EC2 Auto Scaler, Load Balancer
+  * Deployed React-Native app on both Android and iOS
+  * Automated Testing/Deploying thanks to CircleCI
+* (2023.01 ~ 2023.10) Platform service company
+  * Developed platform server with Nest.JS
+  * Developed webpage with Next.JS
+
+## Language
+* Korean : Native
+* English : Can speak nearly as native speaker
+* French : Can speak as DELF B2 level / Courant - DELF B2
+
 ## Projects
 
 ### Open-Source development
@@ -87,26 +107,6 @@ To be updated
 ### Math
 * Can solve some calculus problems
 * Know Linear Algebra, and use the concept to solve problems.
-
-## Language
-* Korean : Native
-* English : Can speak nearly as native speaker
-* French : Can speak as DELF B2 level / Courant - DELF B2
-
-## Education
-* (2019.03 ~ 2022.02) Sunrin Internet High School, Software department
-* (2023.11 ~ Now) Ecole 42
-
-## Employment History
-* (2020.01 ~ 2020.10) Interbrid Inc. Worked as Team Lead of Service Development Team
-  * Developed platform server with Node.JS
-  * Developed platform page, admin web system with React and Vue.
-  * Deployed on AWS using CloudFront, EC2 Auto Scaler, Load Balancer
-  * Deployed React-Native app on both Android and iOS
-  * Automated Testing/Deploying thanks to CircleCI
-* (2023.01 ~ 2023.10) Platform service company
-  * Developed platform server with Nest.JS
-  * Developed webpage with Next.JS
 ___
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=hadmarine&show_icons=true&langs_count=10&theme=tokyonight&layout=compact">
